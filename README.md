@@ -56,11 +56,14 @@ Below are images that show the different resources in AWS.
 ![alt text](images/image.jpg)
 *Terminal Result of Successful Resources Creation*
 
+
 ![alt text](images/image-1.png)
 *Kinesis Data Stream*
 
-![alt text](images/image-2.png)
+
+![alt text](images/Image-2.jpg)
 *Kinesis Data Stream(detailed)*
+
 
 ![alt text](images/image-3.png)
 *Amazon Data Firehose*
