@@ -53,7 +53,7 @@ The pipeline comprises the following components:
 ## Images
 Below are images that show the different resources in AWS.
 
-[alt text](images/image.png)
+![alt text](/Users/apostle/Desktop/IaC-With-Terraform/IAC-WITH-TERRAFORM/images/image.jpg)
 *Terminal Result of Successful Resources Creation*
 
 ![alt text](images/image-1.png)
